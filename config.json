@@ -1,0 +1,14 @@
+{
+    "ip": "test0601.aternos.me:36065",
+    "port": 36065,
+    "name": "BOTiha",
+    "auto-night-skip": "true",
+    "join-msg": "&r\u0412\u0421\u0415\u041c \u041f\u0420\u0418\u0412\u0415\u0422 \u0411\u041e\u0422\u042b!",
+    "join-msg-on": "true",
+    "custom-message-enabled": "false",
+    "custom-message-1": "subscribe to LION BOY",
+    "custom-message-2": "subscribe to LION BOY",
+    "login-enabled": "true",
+    "register-cmd": "/register qwerty qwerty",
+    "login-cmd": "/login qwerty"
+}
